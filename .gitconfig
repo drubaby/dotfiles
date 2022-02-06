@@ -1,3 +1,7 @@
+
+# Include user settings from a file in the home directory
+[include]
+  path = ~/.gitconfig.local
 [core]
   whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
   excludesfile = /Users/drubles/.gitignore
