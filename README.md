@@ -13,9 +13,12 @@ GNU Stow is used to create symlinks from sub-directories. Install this with `bre
 # Clone repo
 git clone https://github.com/drubaby/dotfiles.git ~/dotfiles
 cd ~/dotfiles
+git submodule update --force --recursive --init --remote
 
 # Set up symlinks
 stow zsh git tmux
+
+# May have to re-fetch tmux plugins with "<prefix> + I"
 ```
 
 2. To identify yourself with git, create a `~/.gitconfig.local` with the following structure:
