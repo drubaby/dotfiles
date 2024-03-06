@@ -24,12 +24,15 @@
   sync = !legit sync \"$@\"
   publish = !legit publish \"$@\"
   graft = !legit graft \"$@\"
+  l = log --graph --pretty=format:'%Cred%h%Creset - %Cblue%an%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
 [github]
 # Removed credentials for initial commit
 [github "user"]
-# 
+#
 [user]
-# 
+	name = Andrew Edmondson
+	email = peryton6@gmail.com
+#
 [color]
   ui = true
   diff = auto
