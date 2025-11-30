@@ -1,0 +1,127 @@
+{
+  "Name": "Dotfiles Default",
+  "Guid": "7E7E7E7E-7E7E-7E7E-7E7E-7E7E7E7E7E7E",
+  
+  "// Font Options": [
+    "Monaco 12 - macOS built-in",
+    "SF Mono Regular 12 - macOS built-in (newer systems)",
+    "Menlo-Regular 12 - macOS built-in",
+    "Hack Nerd Font 13 - brew install --cask font-hack-nerd-font",
+    "JetBrainsMono Nerd Font 12 - brew install --cask font-jetbrains-mono-nerd-font",
+    "FiraCode Nerd Font 12 - brew install --cask font-fira-code-nerd-font"
+  ],
+  
+  "Normal Font": "Monaco 12",
+  "Non Ascii Font": "Monaco 12",
+  
+  "Use Non-ASCII Font": false,
+  "Draw Powerline Glyphs": true,
+  
+  "Columns": 120,
+  "Rows": 35,
+  
+  "// Color Themes": [
+    "You can get color schemes from:",
+    "https://iterm2colorschemes.com/",
+    "https://github.com/mbadolato/iTerm2-Color-Schemes"
+  ],
+  
+  "Ansi 0 Color": {
+    "Red Component": 0.11372549019607843,
+    "Green Component": 0.12156862745098039,
+    "Blue Component": 0.15294117647058825
+  },
+  "Ansi 1 Color": {
+    "Red Component": 0.9058823529411765,
+    "Green Component": 0.29411764705882354,
+    "Blue Component": 0.3254901960784314
+  },
+  "Ansi 2 Color": {
+    "Red Component": 0.5215686274509804,
+    "Green Component": 0.8,
+    "Blue Component": 0.4392156862745098
+  },
+  "Ansi 3 Color": {
+    "Red Component": 0.9921568627450981,
+    "Green Component": 0.796078431372549,
+    "Blue Component": 0.3176470588235294
+  },
+  "Ansi 4 Color": {
+    "Red Component": 0.34509803921568627,
+    "Green Component": 0.5607843137254902,
+    "Blue Component": 0.9686274509803922
+  },
+  "Ansi 5 Color": {
+    "Red Component": 0.8274509803921568,
+    "Green Component": 0.5254901960784314,
+    "Blue Component": 0.9568627450980393
+  },
+  "Ansi 6 Color": {
+    "Red Component": 0.32941176470588235,
+    "Green Component": 0.7607843137254902,
+    "Blue Component": 0.8352941176470589
+  },
+  "Ansi 7 Color": {
+    "Red Component": 0.7294117647058823,
+    "Green Component": 0.7607843137254902,
+    "Blue Component": 0.8352941176470589
+  },
+  "Ansi 8 Color": {
+    "Red Component": 0.26666666666666666,
+    "Green Component": 0.2784313725490196,
+    "Blue Component": 0.35294117647058826
+  },
+  "Ansi 9 Color": {
+    "Red Component": 0.9058823529411765,
+    "Green Component": 0.29411764705882354,
+    "Blue Component": 0.3254901960784314
+  },
+  "Ansi 10 Color": {
+    "Red Component": 0.5215686274509804,
+    "Green Component": 0.8,
+    "Blue Component": 0.4392156862745098
+  },
+  "Ansi 11 Color": {
+    "Red Component": 0.9921568627450981,
+    "Green Component": 0.796078431372549,
+    "Blue Component": 0.3176470588235294
+  },
+  "Ansi 12 Color": {
+    "Red Component": 0.34509803921568627,
+    "Green Component": 0.5607843137254902,
+    "Blue Component": 0.9686274509803922
+  },
+  "Ansi 13 Color": {
+    "Red Component": 0.8274509803921568,
+    "Green Component": 0.5254901960784314,
+    "Blue Component": 0.9568627450980393
+  },
+  "Ansi 14 Color": {
+    "Red Component": 0.32941176470588235,
+    "Green Component": 0.7607843137254902,
+    "Blue Component": 0.8352941176470589
+  },
+  "Ansi 15 Color": {
+    "Red Component": 0.9490196078431372,
+    "Green Component": 0.9490196078431372,
+    "Blue Component": 0.9490196078431372
+  },
+  
+  "Background Color": {
+    "Red Component": 0.11372549019607843,
+    "Green Component": 0.12156862745098039,
+    "Blue Component": 0.15294117647058825
+  },
+  "Foreground Color": {
+    "Red Component": 0.7294117647058823,
+    "Green Component": 0.7607843137254902,
+    "Blue Component": 0.8352941176470589
+  },
+  
+  "Scrollback Lines": 10000,
+  "Terminal Type": "xterm-256color",
+  "Mouse Reporting": true,
+  "Option Key Sends": 2,
+  "Right Option Key Sends": 2,
+  "ASCII Ligatures": true
+}
